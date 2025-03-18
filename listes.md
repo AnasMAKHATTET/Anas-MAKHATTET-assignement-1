@@ -372,6 +372,26 @@ def intersection(liste1, liste2):
     return liste_intersection
 
 print(intersection([1, 6, 2, 4], [2, 7, 6]))
+
+
+
+
+#correction 2
+def inter(l1,l2):
+   
+   
+    l3=list()
+    for e in l1:
+        if e in l2: l3.append(e)
+   
+   
+   
+   
+   
+    return l3
+l1= [3,5,7,8]
+l2=[3,1]
+print("Intersection : ", inter(l1,l2))
 ```
 ````
 
