@@ -232,7 +232,8 @@ def argmax(liste):
 
 print(argmax([1, 6, 2, 4]))
 ```
-````
+
+'```
 
 ## Manipulations de listes
 
