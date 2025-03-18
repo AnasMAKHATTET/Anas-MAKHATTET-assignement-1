@@ -219,10 +219,8 @@ print("max : ", ma, "------>", po)
               {'id': '4.1', 
                'title': 'Testez votre solution ici', 
                'src': '# Complétez ce code'})
-</script>
+```
 
-````{admonition} Solution
-:class: tip, dropdown
 
 ```python
 def argmax(liste):
