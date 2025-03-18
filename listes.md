@@ -213,12 +213,7 @@ l = [3,8,15,-1,0,12]
 
 ma, po =argmax(l)      
 print("max : ", ma, "------>", po)
-<div id="pad_4.1" class="pad"></div>
-<script>
-    Pythonpad('pad_4.1', 
-              {'id': '4.1', 
-               'title': 'Testez votre solution ici', 
-               'src': '# Complétez ce code'})
+
 ```
 
 
