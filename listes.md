@@ -533,6 +533,17 @@ Bien entendu, pour pouvoir utiliser `zip()`, il faut que les listes soient de m√
 
 ## Liste des exercices de ce chapitre
 
+ELIMINER TOUS LES 0 DANS CETTE LISTE:
+nb: ##on peut utiliser While aussi 
+
+```{code-cell}
+L =[7,3,0,1,0,3,10]
+for i in L:
+  if i == 0:
+   L.remove(i)
+print(L)
+```
+
 1. [Argmax](ex4.1)
 2. [Intersection de listes](ex4.2)
 3. [Union de listes](ex4.3)
